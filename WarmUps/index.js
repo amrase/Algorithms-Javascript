@@ -57,4 +57,19 @@ function jumpingOnClouds(c) {
     return count;
 }
 
-console.log(jumpingOnClouds(c))
+// console.log(jumpingOnClouds(c))
+
+let aString = "abaaabababababab"
+
+
+function countingA(s){
+
+}
+
+function repeatedString(s, n) {
+  
+
+
+}
+
+console.log(repeatedString(aString,aString.length))
